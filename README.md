@@ -12,6 +12,6 @@
 | Hook useState          |     :white_check_mark:     |
 | Hook useEffect         |     :white_check_mark:     |
 | Hook useMemo           |     :white_check_mark:     |
-| Hook useCallback       | :eight_pointed_black_star: |
+| Hook useCallback       |     :white_check_mark:     |
 | Convertendo classe     | :eight_pointed_black_star: |
 | Hooks com Redux        | :eight_pointed_black_star: |
