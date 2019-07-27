@@ -11,7 +11,7 @@
 | Configurando estrutura |     :white_check_mark:     |
 | Hook useState          |     :white_check_mark:     |
 | Hook useEffect         |     :white_check_mark:     |
-| Hook useMemo           | :eight_pointed_black_star: |
+| Hook useMemo           |     :white_check_mark:     |
 | Hook useCallback       | :eight_pointed_black_star: |
 | Convertendo classe     | :eight_pointed_black_star: |
 | Hooks com Redux        | :eight_pointed_black_star: |
