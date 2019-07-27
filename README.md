@@ -10,7 +10,7 @@
 | ---------------------- | :------------------------: |
 | Configurando estrutura |     :white_check_mark:     |
 | Hook useState          |     :white_check_mark:     |
-| Hook useEffect         | :eight_pointed_black_star: |
+| Hook useEffect         |     :white_check_mark:     |
 | Hook useMemo           | :eight_pointed_black_star: |
 | Hook useCallback       | :eight_pointed_black_star: |
 | Convertendo classe     | :eight_pointed_black_star: |
