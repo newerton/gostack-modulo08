@@ -6,12 +6,12 @@
 
 # React Hooks
 
-| Aulas                  |            Done            |
-| ---------------------- | :------------------------: |
-| Configurando estrutura |     :white_check_mark:     |
-| Hook useState          |     :white_check_mark:     |
-| Hook useEffect         |     :white_check_mark:     |
-| Hook useMemo           |     :white_check_mark:     |
-| Hook useCallback       |     :white_check_mark:     |
-| Convertendo classe     |     :white_check_mark:     |
-| Hooks com Redux        | :eight_pointed_black_star: |
+| Aulas                  |        Done        |
+| ---------------------- | :----------------: |
+| Configurando estrutura | :white_check_mark: |
+| Hook useState          | :white_check_mark: |
+| Hook useEffect         | :white_check_mark: |
+| Hook useMemo           | :white_check_mark: |
+| Hook useCallback       | :white_check_mark: |
+| Convertendo classe     | :white_check_mark: |
+| Hooks com Redux        | :white_check_mark: |
