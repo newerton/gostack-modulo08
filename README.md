@@ -13,5 +13,5 @@
 | Hook useEffect         |     :white_check_mark:     |
 | Hook useMemo           |     :white_check_mark:     |
 | Hook useCallback       |     :white_check_mark:     |
-| Convertendo classe     | :eight_pointed_black_star: |
+| Convertendo classe     |     :white_check_mark:     |
 | Hooks com Redux        | :eight_pointed_black_star: |
