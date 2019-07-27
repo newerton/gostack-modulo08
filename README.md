@@ -8,7 +8,7 @@
 
 | Aulas                  |            Done            |
 | ---------------------- | :------------------------: |
-| Configurando estrutura | :eight_pointed_black_star: |
+| Configurando estrutura |     :white_check_mark:     |
 | Hook useState          | :eight_pointed_black_star: |
 | Hook useEffect         | :eight_pointed_black_star: |
 | Hook useMemo           | :eight_pointed_black_star: |
