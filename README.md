@@ -9,7 +9,7 @@
 | Aulas                  |            Done            |
 | ---------------------- | :------------------------: |
 | Configurando estrutura |     :white_check_mark:     |
-| Hook useState          | :eight_pointed_black_star: |
+| Hook useState          |     :white_check_mark:     |
 | Hook useEffect         | :eight_pointed_black_star: |
 | Hook useMemo           | :eight_pointed_black_star: |
 | Hook useCallback       | :eight_pointed_black_star: |
